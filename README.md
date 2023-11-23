@@ -4,6 +4,8 @@ My name is Saad Kasu, I am a java and apex developer.
 
 I have been working as a software developer since 2021. Currently I am working at Apisero Inc.
 
+I have added my GFG and LeetCode profiles to the links. All in all I have soled more than 500 unique DSA problems. A lot are on the Scaler website.
+
 I have started commiting my work done over the past few months one by one. It's mostly practice for machine coding rounds. All of these repos you see i.e. Tello, ParkingLot, Zoomcar, TicTacToe, SnakeAndLadder was done in around 3-5 hours.
 
 I have written a lot of code but all of it is distributed on different websites and in different files.
